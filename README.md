@@ -1,122 +1,102 @@
-"# NakulLimbani" 
-<!-- Profile Header -->
-<h1 align="center">Hey there! 👋 I'm Nakul Limbani</h1>
-<h3 align="center">AI for Impact 🚀 | Researcher 🧠 | Engineer 💻 | MS in CS/DS Aspirant 🌍</h3>
+<h1 align="center">Hi there, I'm Nakul Limbani 👋</h1>
+<h3 align="center">AI for Impact 🌍 | ML & CV Developer 🤖 | Research Enthusiast 🧠 | Aspiring Data Scientist 📊 | Lifelong Learner 📚</h3>
+
 
 <p align="center">
-  <a href="https://github.com/NakulLimbani">
-    <img src="https://img.shields.io/github/followers/NakulLimbani?label=Followers&logo=github&style=social" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/nakul-limbani/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nakul%20Limbani-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Nakul%20Limbani-blue?logo=linkedin&style=flat-square" />
   </a>
   <a href="mailto:nakulramesh2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nakulramesh2@gmail.com-red?style=flat-square&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-nakulramesh2@gmail.com-red?logo=gmail&style=flat-square" />
+  </a>
+  <a href="https://github.com/NakulLimbani">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&style=flat-square" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 Who Am I?
+## 👨‍💻 About Me
 
-I'm a curious and driven Computer Science student from India (SRMIST, CGPA: 9.82/10), passionate about **building intelligent systems** that bridge technology and society. From **brain tumor detection using XAI** to **real-time sign language translators**, I enjoy creating meaningful impact through AI, ML, and Computer Vision.
+I’m a final-year Computer Science undergrad specializing in **Big Data Analytics**, with a strong interest in solving real-world problems using **AI**, **Machine Learning**, and **Computer Vision**.
 
-> 🧠 “My code speaks data, and my dreams decode impact.”
-
-I believe that **accessible technology** can change lives, and I'm on a mission to combine research, real-world solutions, and ethical AI to do exactly that.
+I enjoy building systems that are both intelligent and impactful — especially in the areas of **accessibility**, **healthcare**, and **education**.
 
 ---
 
-## 🚀 What I'm Up To
+## ⚙️ Technology & Tools
 
-- 🎓 Applying for **MS in CS/DS** (Fall 2026) – Target: Ivy League / Stanford / ETH
-- 🤖 Building AI tools for **healthcare, sports, and education**
-- 💼 Seeking **AI/ML internships** for 2025-2026
-- 📢 Advocating for **tech inclusivity**, especially for the deaf & disabled community
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+**ML / CV Frameworks:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square)
 
-## 💼 Where I’ve Worked
-
-| 💼 Organization | 🔧 Role | 🧪 What I Did |
-|----------------|--------|--------------|
-| **Samsung R&D (PRISM)** | AI Research Intern | Built real-time depth estimation models for video analytics (↑ accuracy by 30%) |
-| **Intel India (Unnati)** | ML Intern | Designed GenAI-based educational games for 100+ learners |
-| **Hackathons (6x Winner/Finalist)** | Team Lead / Dev | Built AI solutions for accessibility, vision, education |
-
----
-
-## 🌟 Featured Projects
-
-### 🧏‍♂️ [Kathanam: AI Sign Language Converter](https://github.com/NakulLimbani)
-> Real-time ISL/ASL ↔️ Text/Speech translator with NLP + ML  
-> 🌍 Impacted 500+ users | 🏆 BITS Hackathon, OSSOME Hacks Finalist
-
-### 🧠 [Brain Tumor Detection using XAI (NeuroNet)](https://github.com/NakulLimbani)
-> CNN + FPN + Attention + Explainability for MRI classification  
-> 🧪 IEEE & Springer-published research
-
-### 🏀 [Real-Time Sports Analytics (Basketball & Badminton)](https://github.com/NakulLimbani)
-> YOLO + MediaPipe for athlete form correction and performance tracking
+**Web & Dev Tools:**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🧠 Research & Patents
+## 🚀 Projects
 
-- 🧬 **NeuroVision:** Brain tumor classification using XAI *(Best Paper, NCICIS 2025)*
-- 💊 **Personalized Treatment Recommendation** *(Springer Journal – 2025)*
-- 🎯 **Patent Filed:** Real-Time Basketball Shot Analysis System *(2025)*
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolov5&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- 🔤 [**Kathanam**](https://github.com/NakulLimbani) – Real-time sign language translator using NLP + CV  
+- 🧠 [**NeuroNet**](https://github.com/NakulLimbani) – Brain tumor detection with XAI-based CNN  
+- 🏀 [**Sports Analyzer**](https://github.com/NakulLimbani) – Motion tracking using YOLO & MediaPipe
 
 ---
 
-## 🏆 Achievements
+## 📚 Currently Exploring
 
-- 🥇 Winner – MOZOHACK 6.0 (2025)
-- 🥉 3rd Place – BITS TechXcelerate & OSSOME Hacks
-- 🌟 NPTEL Discipline Star (Top 1%) – 50+ Weeks of CS/DS Excellence
-- 🧠 IEEE/Springer Author | Patent Holder | 5x Research Presenter
+- 🧠 **Explainable AI (XAI)** – Enhancing model interpretability in healthcare and vision systems  
+- 🤖 **Multimodal & Generative AI** – Combining vision + text; exploring LLMs, prompt engineering  
+- 🛠️ **AI for Accessibility** – Developing inclusive tools like sign language translators  
+- 🔍 **Model Optimization** – Real-time deployment, edge ML, and latency-aware architectures  
+- 📈 **Data-Centric AI** – Improving model performance through better datasets, not just bigger models
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NakulLimbani&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NakulLimbani&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakulLimbani&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NakulLimbani&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NakulLimbani&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakulLimbani&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect!
+## 🏆 Highlights
 
-💌 [Email](mailto:nakulramesh2@gmail.com) •  
-👔 [LinkedIn](https://www.linkedin.com/in/nakul-limbani/) •  
-💻 [GitHub](https://github.com/NakulLimbani)
+- 🥇 Winner – MOZOHACK 6.0  
+- 🥉 Finalist – BITS TechXcelerate  
+- 🎯 National Finalist – Smart India Hackathon  
+- 🌟 NPTEL Star – 50+ weeks of distinction in CS/DS  
+- 📜 Certifications: IBM Python for AI · AWS ML Foundations · NPTEL ML & DS
 
 ---
 
-> “Tech should empower, not exclude. Let’s build inclusive AI — together.” 🤖🌍
+## 🤝 Let’s Connect
+
+<a href="mailto:nakulramesh2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-red?logo=gmail&style=for-the-badge" />
+</a>
+<a href="https://linkedin.com/in/nakul-limbani">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" />
+</a>
+<a href="https://github.com/NakulLimbani">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&style=for-the-badge" />
+</a>
+
+---
+
+> _"Building technology that empowers people."_ 🧠🌍
