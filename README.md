@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/nakul-limbani/">
     <img src="https://img.shields.io/badge/LinkedIn-Nakul%20Limbani-blue?logo=linkedin&style=flat-square" />
   </a>
+  <a href="https://nakul-limbani-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-008080?logo=vercel&style=flat-square" />
+  </a>
   <a href="mailto:nakulramesh2@gmail.com">
     <img src="https://img.shields.io/badge/Email-nakulramesh2@gmail.com-red?logo=gmail&style=flat-square" />
   </a>
@@ -26,32 +29,43 @@ I enjoy building systems that are both intelligent and impactful — especially 
 
 ## ⚙️ Technology & Tools
 
-**Languages:**  
+**Languages & Core:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**ML / CV Frameworks:**  
+**ML / CV Frameworks:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square)
 
-**Web & Dev Tools:**  
+**Data & Cloud:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+**Data Visualization & BI:**  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-A14479?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3E6B80?style=flat-square&logo=python&logoColor=white)
+
+**Web & Dev Tools:**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
-- 🔤 [**Kathanam**](https://github.com/NakulLimbani) – Real-time sign language translator using NLP + CV  
-- 🧠 [**NeuroNet**](https://github.com/NakulLimbani) – Brain tumor detection with XAI-based CNN  
-- 🏀 [**Sports Analyzer**](https://github.com/NakulLimbani) – Motion tracking using YOLO & MediaPipe
+- 🔤 [**Kathanam**](https://github.com/NakulLimbani/Kathanam_Bridging_Communication_for_the_Deaf_and_Mute) – Real-time sign language translator (**NLP + CV**); **Award-winning** solution for social accessibility.  
+- 🧠 [**NeuroNet (XAI)**](https://github.com/NakulLimbani/your-neuro-net-repo) – Brain tumor detection using a CNN, featuring **Explainable AI** to visualize prediction rationales.
+- 📈 [**FinTrack: AI-Powered Finance**](https://github.com/NakulLimbani/FinTrack_Financial_Tracking_Platform) – Full-stack platform focused on **Generative AI** for financial advice and budget allocation.
+- 🏀 [**Sports Analyzer**](https://github.com/NakulLimbani/Basketball_Shooting_analysis) – Motion tracking using **YOLO & MediaPipe** to analyze basketball shots; achieved **~20% improvement** in technique adherence.
 
 ---
 
@@ -77,11 +91,12 @@ I enjoy building systems that are both intelligent and impactful — especially 
 
 ## 🏆 Highlights
 
-- 🥇 Winner – MOZOHACK 6.0  
-- 🥉 Finalist – BITS TechXcelerate  
-- 🎯 National Finalist – Smart India Hackathon  
-- 🌟 NPTEL Star – 50+ weeks of distinction in CS/DS  
-- 📜 Certifications: IBM Python for AI · AWS ML Foundations · NPTEL ML & DS
+- 🔬 Awarded the prestigious **Samsung PRISM Certificate of Excellence** for outstanding performance during internship.
+- 🥇 Winner – MOZOHACK 6.0 (1st place out of 900+ participants)  
+- 🎯 National Finalist – Smart India Hackathon  
+- 🥉 Finalist – BITS TechXcelerate & OSSOME HACKS 2.0  
+- 🌟 **NPTEL Discipline Star** – Recognized for 50+ weeks of distinction in CS/DS coursework.
+- 📜 Certifications: IBM Python for AI · AWS ML Foundations · NPTEL ML & DS 
 
 ---
 
