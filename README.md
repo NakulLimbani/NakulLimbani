@@ -108,6 +108,9 @@ I enjoy building systems that are both intelligent and impactful — especially 
 <a href="https://linkedin.com/in/nakul-limbani">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" />
 </a>
+<a href="https://nakul-limbani-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-008080?logo=vercel&style=flat-square" />
+</a>
 <a href="https://github.com/NakulLimbani">
   <img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&style=for-the-badge" />
 </a>
