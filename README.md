@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a graduate student pursuing an **M.S. in Computer Science at Columbia University**, with a B.Tech in Computer Science and Engineering (specialization in Big Data Analytics) from SRMIST — CGPA 9.80, Rank 1.
+I'm a graduate student pursuing an **M.S. in Computer Science at Columbia University**, with a B.Tech in Computer Science and Engineering (specialization in Big Data Analytics) from SRMIST — CGPA 9.80, Rank Top 1%.
 
 Right now I live in **LLMs, RAG, and agentic AI** — designing workflows that hold up outside a demo, not just inside one. My roots are in **Computer Vision**, where four publications and two patents came out of testing things until they actually worked, not just until they looked like they did. Build it, break it, measure it — that's still how I work.
 
